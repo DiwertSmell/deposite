@@ -1,0 +1,15 @@
+C:\Users\diwer\source\repos\deposits and interest\obj\Debug\net10.0\deposits and interest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwer\source\repos\deposits and interest\obj\Debug\net10.0\deposits and interest.AssemblyInfoInputs.cache
+C:\Users\diwer\source\repos\deposits and interest\obj\Debug\net10.0\deposits and interest.AssemblyInfo.cs
+C:\Users\diwer\source\repos\deposits and interest\obj\Debug\net10.0\deposits and interest.csproj.CoreCompileInputs.cache
+C:\Users\diwer\source\repos\deposits and interest\bin\Debug\net10.0\deposits and interest.exe
+C:\Users\diwer\source\repos\deposits and interest\bin\Debug\net10.0\deposits and interest.deps.json
+C:\Users\diwer\source\repos\deposits and interest\bin\Debug\net10.0\deposits and interest.runtimeconfig.json
+C:\Users\diwer\source\repos\deposits and interest\bin\Debug\net10.0\deposits and interest.dll
+C:\Users\diwer\source\repos\deposits and interest\bin\Debug\net10.0\deposits and interest.pdb
+C:\Users\diwer\source\repos\deposits and interest\obj\Debug\net10.0\deposits and interest.dll
+C:\Users\diwer\source\repos\deposits and interest\obj\Debug\net10.0\refint\deposits and interest.dll
+C:\Users\diwer\source\repos\deposits and interest\obj\Debug\net10.0\deposits and interest.pdb
+C:\Users\diwer\source\repos\deposits and interest\obj\Debug\net10.0\deposits and interest.genruntimeconfig.cache
+C:\Users\diwer\source\repos\deposits and interest\obj\Debug\net10.0\ref\deposits and interest.dll
+C:\Users\diwer\source\repos\deposits and interest\obj\Debug\net10.0\deposits.5EBC454D.Up2Date
